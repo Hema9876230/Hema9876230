@@ -2,6 +2,10 @@
 
 ### Full Stack Developer | AI/ML Enthusiast
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Hema9876230&label=Profile%20Views&color=0e75b6&style=flat" alt="Hema9876230" />
+</p>
+
 
 ## 👨‍💻 About Me
 
