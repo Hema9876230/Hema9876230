@@ -2,13 +2,12 @@
 
 ### Full Stack Developer | AI/ML Enthusiast
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 * 🎓 Computer Science Student
 * 🚀 Building AI-powered applications
 * 💡 Interested in Full Stack Development & Machine Learning
 * 🌱 Currently learning Docker, Kubernetes & System Design
-* 📫 Reach me: [your.email@example.com](mailto:your.email@example.com)
+* 📫 Reach me: [hemarani1910@gmail.com](mailto:hemarani1910@gmail.com)
 
 ---
 
@@ -18,7 +17,7 @@
 <a href="https://linkedin.com/in/hema-rani513" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
-<a href="https://github.com/Hema987654321" target="blank">
+<a href="https://github.com/Hema9876230" target="blank">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
 </a>
 </p>
@@ -62,35 +61,18 @@
 
 ---
 
-## 🤖 Featured Project
-
-### HireLens AI
-
-AI-powered recruitment platform featuring:
-
-* Resume Analysis
-* ATS Score Generation
-* AI Interview Assistant
-* Candidate Ranking
-* Job Matching
-* Analytics Dashboard
-
-**Tech Stack:** React, FastAPI, MongoDB, PyTorch, Docker
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hema987654321&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hema9876230&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hema987654321&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hema9876230&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hema987654321&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hema9876230&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -98,7 +80,7 @@ AI-powered recruitment platform featuring:
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Hema987654321&theme=tokyonight&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Hema9876230&theme=tokyonight&row=1&column=7" />
 </p>
 
 ---
