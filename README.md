@@ -3,11 +3,15 @@
 ### Full Stack Developer | AI/ML Enthusiast
 
 
-* 🎓 Computer Science Student
-* 🚀 Building AI-powered applications
-* 💡 Interested in Full Stack Development & Machine Learning
-* 🌱 Currently learning Docker, Kubernetes & System Design
-* 📫 Reach me: [hemarani1910@gmail.com](mailto:hemarani1910@gmail.com)
+## 👨‍💻 About Me
+
+* 🎓 Final-year B.Tech student in Computer Science & Engineering (AI & ML)
+* 💻 Full-Stack Developer with experience in React, Node.js, Express.js, MongoDB, and FastAPI
+* 🤖 Passionate about Backend Development, Artificial Intelligence, and Machine Learning
+* 🚀 Building scalable web applications and AI-powered solutions
+* 🌱 Currently exploring System Design, Cloud Computing, Docker, and Kubernetes
+* 🔍 Always learning, building, and experimenting with new technologies
+* 📫 Contact: **[hemarani1910@gmail.com](mailto:hemarani1910@gmail.com)**
 
 ---
 
