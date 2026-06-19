@@ -85,7 +85,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Hema9876230&theme=tokyonight&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=hema9876230&theme=tokyonight&row=1&column=7" />
 </p>
 
 ---
