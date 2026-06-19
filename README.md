@@ -2,9 +2,6 @@
 
 ### Full Stack Developer | AI/ML Enthusiast
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Hema9876230&label=Profile%20Views&color=0e75b6&style=flat" alt="Hema9876230" />
-</p>
 
 
 ## 👨‍💻 About Me
@@ -81,12 +78,26 @@
 </p>
 
 ---
-
-## 🏆 GitHub Trophies
+## 💻 Coding Profiles
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=hema9876230&theme=tokyonight&row=1&column=7" />
+  <a href="https://leetcode.com/u/hema9876/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+
+  <a href="https://www.codechef.com/users/ranihema513">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+
+  <a href="https://www.hackerrank.com/ranihema513">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+
+  <a href="https://codeforces.com/profile/hema9876">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
