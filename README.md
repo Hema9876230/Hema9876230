@@ -1,4 +1,4 @@
-# Hi 👋, I'm Hema Rani
+# Hi 👋 I'm Hema Rani
 
 ### Final Year Student |Full Stack Developer | AI/ML Enthusiast
 
