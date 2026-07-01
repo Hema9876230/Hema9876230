@@ -1,6 +1,6 @@
 # Hi 👋 I'm Hema Rani
 
-### Final Year Student |Full Stack Developer | AI/ML Enthusiast
+### Final Year Student |Full Stack Developer | AI/ML Enthusiast 
 
 
 
@@ -11,7 +11,7 @@
 * 🤖 Passionate about Backend Development, Artificial Intelligence, and Machine Learning
 * 🚀 Building scalable web applications and AI-powered solutions
 * 🌱 Currently exploring System Design, Cloud Computing, Docker, and Kubernetes
-* 🔍 Always learning, building, and experimenting with new technologies
+* 🔍 Always learning, building, and experimenting with new technologies.
 * 📫 Contact: **[hemarani1910@gmail.com](mailto:hemarani1910@gmail.com)**
 
 ---
