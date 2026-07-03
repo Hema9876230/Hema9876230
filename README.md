@@ -69,9 +69,6 @@
 
 ## 📊 GitHub Stats  
 
-## 📈 Contribution Graph
-
-[![Hema's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hema9876230&theme=tokyo-night)](https://github.com/Hema9876230)
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=hema9876230&theme=tokyonight" />
