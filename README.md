@@ -1,106 +1,208 @@
-# Hi 👋 I'm Hema Rani
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=250&section=header&text=Hema%20Rani&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
 
-### Final Year Student |Full Stack Developer | AI/ML Enthusiast 
+<h1 align="center">Hi 👋, I'm Hema Rani</h1>
 
+<h3 align="center">
+Final Year B.Tech Student • Full Stack Developer • AI/ML Enthusiast
+</h3>
 
-
-## 👨‍💻 About Me
-
-* 🎓 Final-year B.Tech student in Computer Science & Engineering (AI & ML)
-* 💻 Full-Stack Developer with experience in React, Node.js, Express.js, MongoDB, and FastAPI
-* 🤖 Passionate about Backend Development, Artificial Intelligence, and Machine Learning
-* 🚀 Building scalable web applications and AI-powered solutions
-* 🌱 Currently exploring System Design, Cloud Computing, Docker, and Kubernetes
-* 🔍 Always learning, building, and experimenting with new technologies.
-* 📫 Contact: **[hemarani1910@gmail.com](mailto:hemarani1910@gmail.com)**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hema9876230&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</p>
 
 ---
 
-## 🌐 Connect With Me
+# 👨‍💻 About Me
+
+- 🎓 Final-year **B.Tech (CSE - AI & ML)** student
+- 💻 Full-Stack Developer skilled in **React, Node.js, Express.js, MongoDB, FastAPI**
+- 🤖 Passionate about **Backend Development, AI, and Machine Learning**
+- 🚀 Building scalable web applications and AI-powered solutions
+- 🌱 Currently learning **System Design, Docker, Kubernetes, and Cloud Computing**
+- 🧩 Love solving DSA problems and participating in hackathons
+- 📫 Email: **hemarani1910@gmail.com**
+
+---
+
+# 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/hema-rani513" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+<a href="https://linkedin.com/in/hema-rani513">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
-<a href="https://github.com/Hema9876230" target="blank">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+
+<a href="https://github.com/Hema9876230">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:hemarani1910@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 </p>
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
-### Languages
+## 💻 Languages
 
-![Python](https://skillicons.dev/icons?i=python)
-![Java](https://skillicons.dev/icons?i=java)
-![js](https://skillicons.dev/icons?i=js)
-![ts](https://skillicons.dev/icons?i=ts)
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp"/>
+</p>
 
-### Frontend
+## 🎨 Frontend
 
-![React](https://skillicons.dev/icons?i=react)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-![vite](https://skillicons.dev/icons?i=vite)
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite"/>
+</p>
 
-### Backend
+## ⚙️ Backend
 
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-![FastAPI](https://skillicons.dev/icons?i=fastapi)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
+</p>
 
-### Database
+## 🗄️ Database
 
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![SQLite](https://skillicons.dev/icons?i=sqlite)
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite"/>
+</p>
 
-### DevOps & Tools
+## ☁️ DevOps & Tools
 
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
-![Postman](https://skillicons.dev/icons?i=postman)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,postman,vscode"/>
+</p>
 
 ---
 
+# 🚀 Featured Projects
 
-## 📊 GitHub Stats  
+## 🛒 AI Store Intelligence System
 
+- YOLOv8 based customer analytics
+- FastAPI Backend
+- React Dashboard
+- Heatmaps
+- Customer Funnel Analytics
+- Sales Insights
+
+---
+
+## 🧠 Mental Health AI Chatbot
+
+- NLP based chatbot
+- Sentiment Analysis
+- Flask Backend
+- Streamlit UI
+
+---
+
+## 📄 HireLens ATS Resume Analyzer
+
+- Resume Parsing
+- ATS Score Prediction
+- Resume Suggestions
+- AI Role Matching
+
+---
+
+# 🏆 Achievements
+
+- 🥉 3rd Runner-Up – HackNova Hackathon
+- 🏅 Finalist – Hacksagon National Hackathon
+- ⭐ Google The Big Code 2026 Qualifier
+- 💻 Solved **300+ DSA Problems**
+- 💼 WordPress Development Intern
+
+---
+
+# 📜 Certifications
+
+- Microsoft Azure Fundamentals
+- Google TensorFlow Developer
+- NPTEL Python for Data Science
+
+---
+
+# 💻 Coding Profiles
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=hema9876230&theme=tokyonight" />
+
+<a href="https://leetcode.com/u/hema9876/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.codechef.com/users/ranihema513">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/ranihema513">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://codeforces.com/profile/hema9876">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
 </p>
 
 ---
-## 💻 Coding Profiles
+
+# 📊 GitHub Statistics
 
 <p align="center">
-  <a href="https://leetcode.com/u/hema9876/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
 
-  <a href="https://www.codechef.com/users/ranihema513">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hema9876230&show_icons=true&theme=tokyonight"/>
 
-  <a href="https://www.hackerrank.com/ranihema513">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hema9876230&layout=compact&theme=tokyonight"/>
 
-  <a href="https://codeforces.com/profile/hema9876">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
 </p>
-
 
 ---
 
-### 💭 Quote
+# 🔥 GitHub Streak
 
-> "First, solve the problem. Then, write the code."
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Hema9876230&theme=tokyonight"/>
+</p>
 
-⭐ Thanks for visiting my profile!
+---
 
+# 📈 Contribution Graph
+
+<p align="center">
+
+[![Hema's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hema9876230&theme=tokyo-night)](https://github.com/Hema9876230)
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hema9876230&theme=tokyonight&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</p>
+
+---
+
+# 📈 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Hema9876230/Hema9876230/output/github-contribution-grid-snake.svg"/>
+</p>
+
+> **Note:** The contribution snake will work only after you configure the GitHub Action that generates it.
+
+---
+
+# ⚡ Fun Fact
+
+```text
+💡 I enjoy solving DSA problems, building AI-powered applications,
+and creating scalable backend systems.
