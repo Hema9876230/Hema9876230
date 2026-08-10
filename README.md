@@ -63,17 +63,6 @@
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
 ![Postman](https://skillicons.dev/icons?i=postman)
-
----
-
-
-## 📊 GitHub Stats  
-
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=hema9876230&theme=tokyonight" />
-</p>
-
 ---
 ## 💻 Coding Profiles
 
